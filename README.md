@@ -7,6 +7,7 @@ import numpy as np
 
 **inicializacion de variables y generacion de datos al azar**
 inicio = time.time ()
+
 puntos = np.random.normal(500,30,10000000) 
 
 **suma de datos menores a 500,000**
