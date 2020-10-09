@@ -24,3 +24,5 @@ suma_puntos=np.sum(suma_puntos)
 print(suma_puntos)
 
 print('Duracion: {} segundos'.format(time.time() - inicio))
+
+Link video youtube: https://youtu.be/3Gs-TdcDZQg
