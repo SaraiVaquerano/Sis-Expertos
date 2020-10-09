@@ -1,5 +1,5 @@
 # Sis-Expertos
-En este caso se genera una estructura de datos de 10 millones de puntos con la función de numpy random, con distribución normal con media de 500 y escala de 30 para lo cual se utiliza la función de numpy normal (loc, scale, size). Luego se procede a en la variable # suma_puntos meter todos los datos menores a 500,000 de la variable # puntos en otro array para finalmente sumarlos. 
+En este caso se genera una estructura de datos de 10 millones de puntos con la función de numpy random, con distribución normal con media de 500 y escala de 30 para lo cual se utiliza la función de numpy normal (loc, scale, size). Luego se procede a en la variable suma_puntos meter todos los datos menores a 500,000 de la variable puntos en otro array para finalmente sumarlos. 
 
 #importar librerias
 import time
